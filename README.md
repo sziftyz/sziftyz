@@ -2,7 +2,7 @@
 - 👀 I’m interested in fitness, coding
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing as of now, just learning
-- 📫 How to reach me discord usually szifty#1334
+- 📫 How to reach me discord usually sziftyz#1334
 
 <!---
 sziftyz/sziftyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
